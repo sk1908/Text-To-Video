@@ -15,9 +15,7 @@ this code will use hugging face model generate video from input text
 For generate_video_from_pixel_fromText <br>
 go to pixel website create your own API <br>
 open virtual environment and run <br>
-pip install moviepy gtts requests
-
-<br>
+pip install moviepy gtts requests<br>
 finally run generate_video_from_pixel_fromText.py
 <br>
 this will generate live video from the input text , it will collect video from pixel related to text and give t as output
