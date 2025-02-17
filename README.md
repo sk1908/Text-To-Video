@@ -21,3 +21,4 @@ finally run generate_video_from_pixel_fromText.py
 <br>
 this will generate live video from the input text , it will collect video from pixel related to text and give t as output
 
+
